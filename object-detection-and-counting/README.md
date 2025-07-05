@@ -2,7 +2,7 @@
 
 ## 🚗 Vehicle Detection, Tracking & Speed Estimation using YOLOv8 + ByteTrack + Supervision
 
-This computer vision project demonstrates real-time **vehicle detection**, **multi-object tracking**, **vehicle counting**, and **speed estimation** from traffic surveillance videos using:
+This computer vision project demonstrates real-time **vehicle detection**, **multi-object tracking** and **vehicle counting** from traffic surveillance videos using:
 
 * 🔍 **YOLOv8** for object detection (Ultralytics)
 * 🔁 **ByteTrack** for multi-object tracking
@@ -17,7 +17,6 @@ This computer vision project demonstrates real-time **vehicle detection**, **mul
 * **Vehicle Detection** using YOLOv8 trained on a traffic dataset
 * **Object Tracking** with ByteTrack for high accuracy and ID consistency
 * **Vehicle Counting** via virtual line crossing
-* **Speed Estimation** by computing travel time between two defined points
-* **Visual Annotations** for bounding boxes, IDs, speeds, and line crossings
+* **Visual Annotations** for bounding boxes, IDs and line crossings
 
 ---
